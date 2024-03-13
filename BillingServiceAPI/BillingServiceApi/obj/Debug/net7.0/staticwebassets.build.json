@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GJ96880NIWK/jIJx1oDpQLhXQNfI0uW4Z3zEkgOjLZA=",
+  "Source": "BillingServiceApi",
+  "BasePath": "_content/BillingServiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
