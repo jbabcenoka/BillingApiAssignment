@@ -8,6 +8,7 @@ Each incoming order should contain:
 3. Payable amount;
 4. Payment gateway (identifier to map appropriate payment gateway);
 5. Optional description.
+
 When the billing service processes order, it sends the order to an appropriate
 payment gateway. If the order is processed successfully by the payment gateway,
 the billing service creates a receipt and returns it in response.
